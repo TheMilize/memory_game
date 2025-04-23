@@ -7,10 +7,8 @@
 </div>
 
 ## 🌐 Language Navigation
-<div align="center">
-  <img src="en.png" alt="English" width="30" height="20"> [English 🇬🇧](#english) | 
-  <img src="ru.png" alt="Russian" width="30" height="20"> [Русский 🇷🇺](#russian)
-</div>
+- [English 🇬🇧](#english)
+- [Русский 🇷🇺](#russian)
 
 ## English 🇬🇧
 
@@ -45,6 +43,8 @@ Memory Game is a modern, interactive card matching game that challenges players 
   - Works on all devices
   - Adaptive grid layout
   - Touch-friendly controls
+
+![Game Screenshot](en.png)
 
 ### 🛠️ Technologies Used
 - Vue.js 3 - Progressive JavaScript framework
@@ -108,6 +108,8 @@ Memory Game - это современная интерактивная игра 
   - Работает на всех устройствах
   - Адаптивная сетка
   - Удобное управление на сенсорных экранах
+
+![Скриншот игры](ru.png)
 
 ### 🛠️ Используемые технологии
 - Vue.js 3 - Прогрессивный JavaScript фреймворк
