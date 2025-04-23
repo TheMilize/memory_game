@@ -7,8 +7,10 @@
 </div>
 
 ## 🌐 Language Navigation
-- [English 🇬🇧](#english)
-- [Русский 🇷🇺](#russian)
+<div align="center">
+  <img src="en.png" alt="English" width="30" height="20"> [English 🇬🇧](#english) | 
+  <img src="ru.png" alt="Russian" width="30" height="20"> [Русский 🇷🇺](#russian)
+</div>
 
 ## English 🇬🇧
 

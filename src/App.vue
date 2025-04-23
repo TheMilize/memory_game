@@ -86,7 +86,7 @@ const handleGameOver = (result) => {
       :is-sound-on="isSoundOn"
       @toggle-sound="toggleSound"
     />
-  </div>
+    </div>
 </template>
 
 <style>
@@ -132,7 +132,7 @@ body {
 .app {
   width: 100%;
   min-height: 100vh;
-  display: flex;
+    display: flex;
   justify-content: center;
   align-items: center;
   padding: 20px;
