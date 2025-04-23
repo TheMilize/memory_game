@@ -44,7 +44,7 @@ Memory Game is a modern, interactive card matching game that challenges players 
   - Adaptive grid layout
   - Touch-friendly controls
 
-![Game Screenshot](en.png)
+![Demonstration of basic game mechanics](assets/en.png)
 
 ### 🛠️ Technologies Used
 - Vue.js 3 - Progressive JavaScript framework
@@ -109,7 +109,7 @@ Memory Game - это современная интерактивная игра 
   - Адаптивная сетка
   - Удобное управление на сенсорных экранах
 
-![Скриншот игры](ru.png)
+![Демонстрация базовых механик игры](assets/ru.png)
 
 ### 🛠️ Используемые технологии
 - Vue.js 3 - Прогрессивный JavaScript фреймворк
